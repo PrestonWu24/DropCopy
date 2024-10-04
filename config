@@ -1,0 +1,19 @@
+# positionSrv config file
+
+# listen port
+listen_port=10001
+
+# production
+drop_copy_server_ip=205.209.218.140
+drop_copy_server_port=9220
+
+# session
+session_num=1
+session=4DK
+
+#drop_copy_server_ip=205.209.218.143 
+#drop_copy_server_port=9245
+#session=W7P 
+
+#checkpoint
+checkpoint=100
